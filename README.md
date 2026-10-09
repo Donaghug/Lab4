@@ -1,69 +1,91 @@
+# Gary Ryan Donaghue
 
-# My Markdown Examples
-**Gary Ryan Donaghue**
+### *Cyber Security Student*
 
-## 1. Headings
+**Mississauga, ON** | Phone Number | [example@example.com](mailto:example@example.com)
 
-# Toronto Maple Leafs
-## My Friends
-### Hockey Night
+> Cyber Security student with hands-on experience in Windows Server administration, identity and access management, PowerShell, Linux, cloud fundamentals, data analysis, and secure application practices.
 
-## 2. Paragraphs
+## Professional Summary
 
-My favourite hockey team is the Toronto Maple Leafs.
+Brings client-facing communication, team leadership, and practical problem solving developed through technical labs and professional roles.
 
-I enjoy watching hockey with my friends Zeeshan Jamal and Wissem.
+Interested in **cyber and technology risk**, **digital trust**, **privacy**, **controls**, and **data protection**.
 
-## 3. Bold and Italic
+## Education
 
-**Go Leafs Go!**
+**Cyber Security Program** — Sheridan College, Ontario  
+*In progress*
 
-*Go Leafs Go!*
+**Relevant studies:**
 
-## 4. Blockquotes
+1. Network and system security
+2. Cryptography and cloud technologies
+3. Windows and Linux administration
+4. PowerShell automation and Python data analysis
+5. Databases and secure web development
 
-> Never celebrate a Leafs lead too early.
->
-> Especially during the playoffs!
+## Technical Skills
 
-## 5. Ordered Lists
+| Category | Skills |
+|:---|:---|
+| **Security and risk** | Identity and access management, least privilege, authentication and authorization, security controls, data protection, cryptography, vulnerability and threat concepts |
+| **Systems and networking** | Windows Server, Active Directory Domain Services, Group Policy, DHCP, Hyper-V, PowerShell remoting, Linux, TCP/IP, IPv4 and IPv6, subnetting, NAT |
+| **Cloud, data and development** | AWS EC2, security groups, `boto3`, Python, Pandas, NumPy, SQL, MySQL, PHP, HTML, prepared statements, input validation, HMAC |
+| **Business tools** | Microsoft Word, Excel, PowerPoint, technical documentation, data analysis, executive-ready reporting, troubleshooting |
 
-My favourite activities:
+## Selected Technical Experience
 
-1. Watching hockey
-2. Going to the gym
-3. Playing video games
+### Identity and Infrastructure Administration Labs
 
-## 6. Unordered Lists
+**Sheridan College** | *2025–Present*
 
-My hockey night checklist:
+- Configured Active Directory users, groups, organizational units, Group Policy, file shares, permissions, and DHCP services in Windows Server lab environments.
+- Applied identity and access management principles through:
+  - Role-based group membership
+  - Account administration and access permissions
+  - Least-privilege decisions
+- Used PowerShell remoting, `Invoke-Command`, and interactive sessions to administer systems and document repeatable technical procedures.
 
-- Invite friends
-  - Zeeshan Jamal
-  - Wissem
-- Get snacks
-- Watch the Leafs game
+### Cloud Security and Automation Labs
 
-## 7. Inline Code
+**Sheridan College** | *2025–Present*
 
-The PowerShell command `Get-Date` displays the current date.
+- Provisioned AWS EC2 resources with Python and `boto3`, including instance configuration, security group rules, and automated web-server deployment.
+- Troubleshot Windows, Linux, virtual networking, and application issues by reviewing system output, isolating root causes, testing changes, and documenting results.
 
-## 8. Links
+### Data Analysis and Secure Development Labs
 
-[Toronto Maple Leafs Official Website](https://www.nhl.com/mapleleafs)
+**Sheridan College** | *2025–Present*
 
-## 9. Tables
+- Analyzed structured data with Python, Pandas, and NumPy; cleaned missing values, selected relevant fields, and presented clear findings from data.
+- Built PHP and MySQL exercises using input validation, output encoding, prepared statements, and HMAC concepts to reduce common security risks.
 
-| Name | Hockey Night Job | Status |
-|:---|:---:|---:|
-| Gary | Choose the game | Done |
-| Zeeshan | Get beer | Done |
- Jamal | Bring snacks | Pending |
-| Wissem | Show up on time | Pending |
+## Professional Experience
 
-## 10. Task Lists
+| Position | Organization | Dates |
+|:---|:---|:---|
+| **Station Attendant** | Air Canada | Dec 2019 – Mar 2020 |
+| **Crew Lead and Landscaper** | International Landscaping | Jun 2021 – Aug 2023 |
 
-- [x] Go to class
-- [x] Listen to lecture
-- [x] Take notes
-- [ ] Complete Assignment
+### Air Canada — Station Attendant
+
+- Certified airport ramp worker, dangerous goods handler, and airport ramp driver.
+- Handled and routed customer baggage to the correct areas, loaded flights, and accurately recorded baggage counts.
+
+### International Landscaping — Crew Lead and Landscaper
+
+- Supervised a crew, coordinated daily work, operated vehicles and equipment safely, and resolved customer needs in a fast-paced service environment.
+
+---
+
+## Resume Checklist
+
+- [x] Name
+- [x] Phone number
+- [x] E-mail address
+- [x] Link to college
+- [x] Highest form of schooling
+- [x] Work experience
+- [x] Interests
+- [ ] A Job
